@@ -1,0 +1,8 @@
+# ignore all exe
+*.exe
+*.bak
+*.o
+*.out
+/build/
+*.log
+githubToken
