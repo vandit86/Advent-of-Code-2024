@@ -91,7 +91,7 @@ void makeFragment(vector<int>& data){
 							data[i + k] = blockID; 
 							data[idB - k] = -1;
 						}
-						break; 					// we find the place 
+						break; 						// we find the place 
 					}
 				}		
 			}
